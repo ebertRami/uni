@@ -1,0 +1,12 @@
+C:\Users\EBERTH\Documents\Visual Studio 2013\Projects\ejemploArchivoBinario\ejemploArchivoBinario\obj\Debug\ejemploArchivoBinario.exe
+C:\Users\EBERTH\Documents\Visual Studio 2013\Projects\ejemploArchivoBinario\ejemploArchivoBinario\bin\Debug\ejemploArchivoBinario.exe.config
+C:\Users\EBERTH\Documents\Visual Studio 2013\Projects\ejemploArchivoBinario\ejemploArchivoBinario\bin\Debug\ejemploArchivoBinario.exe
+C:\Users\EBERTH\Documents\Visual Studio 2013\Projects\ejemploArchivoBinario\ejemploArchivoBinario\bin\Debug\ejemploArchivoBinario.pdb
+C:\Users\EBERTH\Documents\Visual Studio 2013\Projects\ejemploArchivoBinario\ejemploArchivoBinario\obj\Debug\ejemploArchivoBinario.pdb
+C:\Users\EBERTH\Documents\Visual Studio 2013\Projects\ejemploArchivoBinario\ejemploArchivoBinario\obj\Debug\AlmacenLibros.csprojResolveAssemblyReference.cache
+C:\Users\EBERTH\Downloads\Compressed\ejemploArchivoBinario\ejemploArchivoBinario\bin\Debug\ejemploArchivoBinario.exe.config
+C:\Users\EBERTH\Downloads\Compressed\ejemploArchivoBinario\ejemploArchivoBinario\bin\Debug\ejemploArchivoBinario.exe
+C:\Users\EBERTH\Downloads\Compressed\ejemploArchivoBinario\ejemploArchivoBinario\bin\Debug\ejemploArchivoBinario.pdb
+C:\Users\EBERTH\Downloads\Compressed\ejemploArchivoBinario\ejemploArchivoBinario\obj\Debug\ejemploArchivoBinario.exe
+C:\Users\EBERTH\Downloads\Compressed\ejemploArchivoBinario\ejemploArchivoBinario\obj\Debug\ejemploArchivoBinario.pdb
+C:\Users\EBERTH\Downloads\Compressed\ejemploArchivoBinario\ejemploArchivoBinario\obj\Debug\AlmacenLibros.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\eberth\documents\visual studio 2013\Projects\ejemploArchivoBinario\ejemploArchivoBinario\bin\Debug\ejemploArchivoBinario.exe.config
+c:\users\eberth\documents\visual studio 2013\Projects\ejemploArchivoBinario\ejemploArchivoBinario\bin\Debug\ejemploArchivoBinario.exe
+c:\users\eberth\documents\visual studio 2013\Projects\ejemploArchivoBinario\ejemploArchivoBinario\bin\Debug\ejemploArchivoBinario.pdb
+c:\users\eberth\documents\visual studio 2013\Projects\ejemploArchivoBinario\ejemploArchivoBinario\obj\Debug\ejemploArchivoBinario.csprojResolveAssemblyReference.cache
+c:\users\eberth\documents\visual studio 2013\Projects\ejemploArchivoBinario\ejemploArchivoBinario\obj\Debug\ejemploArchivoBinario.exe
+c:\users\eberth\documents\visual studio 2013\Projects\ejemploArchivoBinario\ejemploArchivoBinario\obj\Debug\ejemploArchivoBinario.pdb

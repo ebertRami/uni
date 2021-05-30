@@ -1,0 +1,31 @@
+Sistema de guardado de libros guardando ficheros en monticulos, registros de extension fija, borrado logico, ordenacion externa.
+LIMITACIONES 
+1.-Funciona para cualquier  M >=3.Si M*fr es lo suficientemente grande para albergar toda la relacion, el algoritmo inherentemente 
+realiza una ordenacion interna en memoria intermedia.
+
+Funciones al 100%
+1.Insertar,eliminar,modificar,mostrarHabilitados,mostrarBorrados,mostrarEstructura.
+2.-generarSecuenciasOrdenadas(rutaOrigen,M,fr,campo):
+En el directorio /Secuencias escribe  
+las secuencias producto de fragmentar los archivos originales en    n-secuencias =nroBloques/M*fr, incluidas las restantes.
+3.-ordenar(memoriaIntermedia,campo): 
+Ordena en memoria archivos de secuencia mediante el metodo de insercion.
+4.-procesarSecuenciasOrdenadas(M,N,fr,campo):
+Realiza las mezclas de las secuencias ordenadas, también de las mezclas ordenadas.
+5.-MezclarDemo(inicio,nSecAprocesar,numeracionParaMezcla,flag,M,N,campo):
+Proporciona los archivos que se mezclan asi como su ruta final
+6.-MezclarSecuencias(inicio,nSecAprocesar,numeracionParaMezcla,flag,M,N,campo):Realiza todo el proceso de mezclas de inicio a fin.
+7.-Mezclar(rutaInicial,inicio,nroSecuencias,rutaMezclaFinal,M,fr,campo)
+Realiza propiamente el proceso de mezclas de N-secuencias ordenadas o N-SecuencisMezcla.
+8.-Funciones Auxiliares
+Para ayudar a leer los primeros 100 libros, apoyo en las ordenaciones y comparaciones de las funciones principales.
+	8.1.-mostrarSecuenciaOrdenada
+	8.2.-mostrarSecuenciaAbierta
+	8.3.-ponerRegistro
+	8.3.-compararRegistro
+	8.4.-mostrarRegistroMostrandoComparaciones
+	8.5.-registroIésimo
+	8.6.-termino
+	8.7.-insertarLibros
+
+
